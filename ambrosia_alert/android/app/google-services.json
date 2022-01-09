@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "399637874358",
+    "firebase_url": "https://ambrosia-alert-5bb96-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ambrosia-alert-5bb96",
+    "storage_bucket": "ambrosia-alert-5bb96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399637874358:android:236d3144e2023990cec817",
+        "android_client_info": {
+          "package_name": "com.example.ambrosia_alert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399637874358-655k5an89bm56uurs0uo1gevvq1got3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ambrosia_alert",
+            "certificate_hash": "cdcbc3b227cf776f350186b0d68cf863b9f7e0a4"
+          }
+        },
+        {
+          "client_id": "399637874358-gph63hlj2bq6uva5krhkmrbibh5kh4t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJBJ2-9SVw9eq56SHEiiKdz8nKA23lqb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399637874358-gph63hlj2bq6uva5krhkmrbibh5kh4t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
